@@ -40,7 +40,7 @@ $ systemctl set-default multi-user.target
 ```
 
 
-####The term runlevels is used in the sysV init systems. These have been replaced by systemd targets in systemd based systems.
+## The term runlevels is used in the sysV init systems. These have been replaced by systemd targets in systemd based systems.
 
 The complete list of runlevels and the corresponding systemd targets can be seen below:
 
